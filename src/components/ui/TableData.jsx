@@ -88,7 +88,7 @@ const TableData = () => {
         {
             brand: "Intercom",
             chat: "9",
-            img: "https://i.imgur.com/uSzzjF3.png",
+            img: "https://i.imgur.com/z1PRK63.png",
             description: "Implement an AI-driven C...",
             categories: ["Technology", "SaaS"],
             tags: ["#SmartFinance", "#SaasSPI"],
